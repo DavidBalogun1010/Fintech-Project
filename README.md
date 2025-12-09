@@ -23,7 +23,10 @@ The pipeline transforms raw, siloed CSV data into actionable intelligence:
 
 4.  **Downstream Analysis (The Value)**:
     -   **Exploratory Data Analysis (`EDA.ipynb`)**: Initial quality checks and distribution analysis.
-    -   **Advanced Insights (`advanced_eda.py`)**: Deep dives into customer lifetime value, churn risk, and spending behaviors by joining previously disconnected datasets.
+    -   **Advanced Insights (`advanced_eda.py`)**: 
+        -   **RFM Segmentation**: Classifies customers based on Recency, Frequency, and Monetary value.
+        -   **Churn Risk Prediction**: Identifies customers inactive for >90 days to proactively prevent attrition.
+        -   **Trend Analysis**: Tracks the evolution of transaction types (POS, Bill Payment, Transfer) over time.
     -   **BI Dashboards**: Power BI (or similar tools) can connect directly to this unified layer for real-time reporting.
 
 ## Setup Instructions
