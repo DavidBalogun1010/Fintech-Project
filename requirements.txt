@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
@@ -6,3 +7,13 @@ seaborn
 sqlalchemy
 snowflake-connector-python
 python-dotenv
+=======
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+sqlalchemy
+snowflake-connector-python
+python-dotenv
+>>>>>>> 7ac0f97 (update)

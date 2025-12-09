@@ -1,0 +1,301 @@
+customer_id,name,age,signup_date,country
+CUST1000,Jody Bell,36,2024-09-26,Rwanda
+CUST1001,Jerry Mcgrath,34,2023-07-29,Benin
+CUST1002,Amy Alvarez,55,2025-07-12,Egypt
+CUST1003,Eric Cochran,34,2023-12-14,Dominica
+CUST1004,Matthew Waters,48,2024-08-24,French Guiana
+CUST1005,Tyler Clark,69,2024-03-24,Ireland
+CUST1006,Mark Harrison,27,2024-08-05,Monaco
+CUST1007,Kayla Chavez,52,2024-06-26,Antarctica (the territory South of 60 deg S)
+CUST1008,Angela Lane,38,2024-10-05,Poland
+CUST1009,Amanda Roman,53,2025-07-20,United Arab Emirates
+CUST1010,Elizabeth Norris,19,2024-08-26,Cambodia
+CUST1011,Becky Newman,25,2023-07-23,British Virgin Islands
+CUST1012,Stephanie Graham,58,2023-09-15,Armenia
+CUST1013,James Camacho,40,2025-07-20,Tanzania
+CUST1014,Mr. Frederick Wright,24,2024-08-04,Bosnia and Herzegovina
+CUST1015,John Nicholson,20,2024-04-25,Suriname
+CUST1016,Brandon Webb,59,2023-06-10,Grenada
+CUST1017,Susan Hahn,32,2025-06-13,Svalbard & Jan Mayen Islands
+CUST1018,Kaitlin Norman,43,2025-09-28,Bahamas
+CUST1019,Marissa Maxwell,21,2025-01-27,Maldives
+CUST1020,Maria Dixon,19,2025-10-12,Kazakhstan
+CUST1021,David James,41,2023-06-22,Micronesia
+CUST1022,Jacob Brown,52,2024-12-15,British Virgin Islands
+CUST1023,Lisa Floyd,53,2025-05-03,Bangladesh
+CUST1024,Jennifer Cooper,64,2024-01-18,Mayotte
+CUST1025,Terry Baker,35,2025-09-12,Russian Federation
+CUST1026,Jason Humphrey,33,2023-03-17,Madagascar
+CUST1027,Ashley Frey,57,2023-02-28,Albania
+CUST1028,Sheila Walsh,21,2023-05-28,Korea
+CUST1029,Tanner Barber,51,2024-11-11,Puerto Rico
+CUST1030,Jessica Todd,42,2024-05-26,Croatia
+CUST1031,Benjamin Skinner,59,2025-06-03,Netherlands
+CUST1032,Eric Hernandez,39,2022-12-03,Zambia
+CUST1033,Ethan Edwards,26,2025-01-09,Italy
+CUST1034,Christopher Peters,50,2024-05-10,Somalia
+CUST1035,Martin Knight,56,2024-07-17,Slovenia
+CUST1036,Scott Watts,48,2025-08-12,American Samoa
+CUST1037,Madison Bradford,21,2023-07-26,Holy See (Vatican City State)
+CUST1038,Brandon Robertson III,21,2024-10-12,Antarctica (the territory South of 60 deg S)
+CUST1039,Chelsey Gonzalez,61,2025-04-17,Egypt
+CUST1040,Vicki Johnson,24,2025-10-11,Seychelles
+CUST1041,Jason Logan,58,2024-08-06,American Samoa
+CUST1042,George Gonzalez,38,2024-05-22,United States Minor Outlying Islands
+CUST1043,Charles Rios,34,2025-02-13,Antigua and Barbuda
+CUST1044,Destiny Decker,36,2023-11-13,Tajikistan
+CUST1045,William Chase,64,2024-04-09,Antigua and Barbuda
+CUST1046,Andrew Bailey,28,2024-03-02,Romania
+CUST1047,Debra Barnett,50,2023-03-12,American Samoa
+CUST1048,Nicole Roman,69,2022-12-22,Samoa
+CUST1049,Terrance Vaughan,29,2024-06-20,France
+CUST1050,Charles Perry,24,2025-09-02,Guinea
+CUST1051,Stephanie Thompson,69,2023-07-05,British Indian Ocean Territory (Chagos Archipelago)
+CUST1052,Deanna Alvarez,19,2023-02-26,Benin
+CUST1053,Theresa Miller,65,2024-08-18,Vietnam
+CUST1054,Terry Perez,32,2023-03-03,Switzerland
+CUST1055,Catherine May,66,2023-12-10,Guinea-Bissau
+CUST1056,Donald Andersen,65,2024-04-13,British Virgin Islands
+CUST1057,Jason Patel,50,2024-07-25,Spain
+CUST1058,Loretta Perez,54,2023-09-12,United States Virgin Islands
+CUST1059,Jennifer Perkins,24,2024-02-25,Macao
+CUST1060,Amy Ball,44,2024-06-25,Morocco
+CUST1061,Kristina Ellison,54,2023-11-30,Egypt
+CUST1062,Kyle Chavez,61,2025-07-16,Poland
+CUST1063,Melanie White,50,2023-09-11,Dominican Republic
+CUST1064,Cesar Perez,58,2023-08-18,Luxembourg
+CUST1065,Bianca Torres,64,2025-04-22,Lao People's Democratic Republic
+CUST1066,Christina Stewart,26,2024-10-22,Philippines
+CUST1067,Maurice Brown,66,2023-04-16,Botswana
+CUST1068,Monica Rodriguez,18,2022-12-19,Kenya
+CUST1069,Thomas Livingston,21,2023-03-23,Paraguay
+CUST1070,Monica Santana,58,2022-12-29,Isle of Man
+CUST1071,Sarah Drake,45,2024-03-04,El Salvador
+CUST1072,Cheryl Kennedy,39,2025-10-30,Thailand
+CUST1073,Jonathan Kemp,18,2023-01-27,Liberia
+CUST1074,Angel Butler,19,2024-10-14,Malta
+CUST1075,Melanie Ellis,35,2023-12-29,Luxembourg
+CUST1076,Kimberly Sims,32,2024-07-03,Moldova
+CUST1077,Michael Walker,19,2024-07-24,Equatorial Guinea
+CUST1078,Samantha Sanford,65,2023-10-15,Montserrat
+CUST1079,Karen Cox,23,2025-09-30,Saint Barthelemy
+CUST1080,Karen Hill,25,2024-09-02,Madagascar
+CUST1081,Donald Reyes,52,2024-07-07,Costa Rica
+CUST1082,Ricky Malone,40,2025-10-23,Zambia
+CUST1083,Scott Horn,69,2022-12-23,Saint Barthelemy
+CUST1084,Jason Ford,44,2024-05-04,Honduras
+CUST1085,Patricia Gibson,40,2025-09-07,Bulgaria
+CUST1086,Lauren Perez,39,2023-12-10,United States Minor Outlying Islands
+CUST1087,William Jones,42,2023-03-14,Cape Verde
+CUST1088,Stephen Deleon,44,2025-10-26,Nicaragua
+CUST1089,Sherry Davis,40,2025-06-24,Belgium
+CUST1090,Elizabeth Hamilton,28,2023-05-29,New Caledonia
+CUST1091,Bradley Curtis,30,2022-12-15,Antigua and Barbuda
+CUST1092,Jessica Berry,40,2024-12-20,French Guiana
+CUST1093,Todd Carlson,29,2023-04-27,Reunion
+CUST1094,Scott Madden,44,2025-05-23,Maldives
+CUST1095,Jason Hoffman,21,2025-03-04,Holy See (Vatican City State)
+CUST1096,Dale Saunders,22,2024-10-14,Hong Kong
+CUST1097,Vanessa Griffin,41,2024-06-28,Greenland
+CUST1098,Brent Taylor,53,2023-05-13,Saint Martin
+CUST1099,Alexander Harvey,62,2025-08-16,Netherlands
+CUST1100,Peter Perry,65,2024-11-23,Congo
+CUST1101,Jonathan Gordon,37,2023-07-12,India
+CUST1102,Christopher Anderson,39,2025-05-25,Tuvalu
+CUST1103,Jason Anderson DDS,53,2023-04-27,Venezuela
+CUST1104,Jessica Oneill,43,2024-07-15,Iraq
+CUST1105,Charles Rodriguez,62,2025-07-15,Thailand
+CUST1106,Melinda Edwards,53,2025-06-14,Russian Federation
+CUST1107,Crystal Alexander,49,2024-11-05,Malaysia
+CUST1108,Heather Moore,28,2025-01-25,Turks and Caicos Islands
+CUST1109,Christine Brown,45,2023-07-10,Bulgaria
+CUST1110,Lisa Thompson,26,2023-06-11,Ukraine
+CUST1111,Kara Clark,34,2024-10-07,Sierra Leone
+CUST1112,Justin Moore,24,2024-05-07,Tokelau
+CUST1113,Michael Conner,39,2023-03-13,Burundi
+CUST1114,Samuel Green,30,2025-11-01,Faroe Islands
+CUST1115,Roger Robinson,56,2023-01-13,Bouvet Island (Bouvetoya)
+CUST1116,Justin Arellano,50,2025-01-10,Estonia
+CUST1117,Edwin Johnson,19,2023-12-18,Bouvet Island (Bouvetoya)
+CUST1118,Ryan Edwards,41,2023-04-05,Taiwan
+CUST1119,Timothy Scott,26,2025-06-19,Djibouti
+CUST1120,Daniel King,37,2024-01-22,Australia
+CUST1121,Diane Armstrong,68,2023-06-23,Netherlands Antilles
+CUST1122,Mr. Roger Dennis,68,2024-03-24,Mali
+CUST1123,Steven Powell,32,2025-07-24,Chad
+CUST1124,Jeffrey Gill,39,2024-04-29,Philippines
+CUST1125,John Williams,34,2024-01-07,Serbia
+CUST1126,Brandon Dawson,47,2025-06-19,Iraq
+CUST1127,Teresa Shannon,36,2025-02-03,Denmark
+CUST1128,Ian Johnson,59,2024-07-25,Finland
+CUST1129,Ashley Guerrero,61,2025-07-05,Malta
+CUST1130,Andrew Cowan,66,2025-11-24,Antigua and Barbuda
+CUST1131,Rebecca Evans,69,2025-11-08,Israel
+CUST1132,Jon Smith,51,2023-11-25,Peru
+CUST1133,Matthew Bennett,42,2024-02-10,Puerto Rico
+CUST1134,Dr. David Rivera,22,2023-11-12,Central African Republic
+CUST1135,William Rose,38,2024-02-28,Algeria
+CUST1136,Mark Gonzalez,26,2025-04-02,Saint Pierre and Miquelon
+CUST1137,John Bridges,53,2023-10-15,Benin
+CUST1138,Valerie Kramer,29,2025-07-18,Venezuela
+CUST1139,Sharon Smith MD,51,2025-03-14,Saudi Arabia
+CUST1140,Mark Smith,59,2025-06-15,Cote d'Ivoire
+CUST1141,Matthew Blackwell,18,2023-05-11,Svalbard & Jan Mayen Islands
+CUST1142,James Good,40,2024-02-15,Macedonia
+CUST1143,Elizabeth Walls,36,2024-03-15,Tokelau
+CUST1144,Rachel Perez,62,2024-08-02,United States Virgin Islands
+CUST1145,Jasmine Davis,25,2023-10-04,United Arab Emirates
+CUST1146,Lisa Hamilton,39,2024-04-05,Tajikistan
+CUST1147,Jason Hooper,62,2024-10-02,Zambia
+CUST1148,Thomas Torres,45,2025-01-06,Indonesia
+CUST1149,Timothy Clark,57,2024-05-19,Isle of Man
+CUST1150,Brittany Leon,63,2025-03-08,Suriname
+CUST1151,Karen Carey,19,2025-10-14,Solomon Islands
+CUST1152,James Jones,69,2024-05-21,Mozambique
+CUST1153,Cynthia Turner,60,2022-12-11,Azerbaijan
+CUST1154,Laura Stewart,63,2024-12-31,Egypt
+CUST1155,Eric Lowery,49,2023-09-22,Dominica
+CUST1156,Gail Anderson,38,2023-02-24,Christmas Island
+CUST1157,Scott Barron,39,2024-11-13,Botswana
+CUST1158,Mary Harris,33,2025-08-24,Dominica
+CUST1159,Victoria Mitchell,35,2024-04-24,Lebanon
+CUST1160,James Stuart,57,2025-06-07,Kyrgyz Republic
+CUST1161,Michael Grimes,29,2024-12-10,Bahrain
+CUST1162,Charles Gates,30,2023-11-21,Togo
+CUST1163,William Thomas,57,2025-08-16,Hong Kong
+CUST1164,Douglas Reyes,62,2023-05-18,Bahamas
+CUST1165,Samuel Hill,66,2024-08-02,Uganda
+CUST1166,Angela Lopez,34,2024-06-14,Bosnia and Herzegovina
+CUST1167,Cody Martinez,33,2023-10-19,Jamaica
+CUST1168,Scott Delacruz,35,2023-04-20,Malawi
+CUST1169,Joseph Lee,46,2024-11-25,Kuwait
+CUST1170,Tiffany Green,29,2022-12-17,Armenia
+CUST1171,Erica Dalton MD,28,2023-02-22,Slovakia (Slovak Republic)
+CUST1172,Deborah Steele,34,2025-08-31,Micronesia
+CUST1173,Tammy Rodriguez,29,2024-12-20,Greenland
+CUST1174,Andrea Dillon,46,2024-05-28,Netherlands Antilles
+CUST1175,Joseph Wilson,37,2025-07-26,Denmark
+CUST1176,Dr. Eugene Aguilar,53,2024-02-26,Cocos (Keeling) Islands
+CUST1177,Brian Walker,61,2023-08-19,Rwanda
+CUST1178,Elizabeth Tran,68,2024-02-10,Honduras
+CUST1179,Whitney Davis DVM,37,2025-03-12,Gibraltar
+CUST1180,Bethany Barry,28,2024-10-08,Ireland
+CUST1181,Steven Pope,24,2025-01-05,Tunisia
+CUST1182,Cheryl Wilson,34,2024-02-14,Somalia
+CUST1183,Matthew Smith,45,2025-08-21,Hungary
+CUST1184,Jenna Stone,24,2023-05-25,Bangladesh
+CUST1185,Samantha Dennis,39,2024-11-01,Rwanda
+CUST1186,Eric Robbins,39,2024-03-11,Egypt
+CUST1187,Amy Valenzuela,65,2023-05-04,Indonesia
+CUST1188,Emily Taylor,60,2023-05-01,Norway
+CUST1189,Curtis West,31,2025-02-06,Bolivia
+CUST1190,Ashley Kelley,60,2024-04-14,Bermuda
+CUST1191,Jessica Ramirez,39,2025-05-18,New Zealand
+CUST1192,Ashley Chase,27,2023-03-04,American Samoa
+CUST1193,Beverly Henry,31,2023-07-19,Tuvalu
+CUST1194,Stefanie Brown,68,2023-04-14,Bolivia
+CUST1195,Jessica Sims,62,2024-02-19,Nigeria
+CUST1196,Arthur Clark,44,2023-06-27,Monaco
+CUST1197,Elizabeth Bush,57,2024-09-24,Jordan
+CUST1198,Kristin White,29,2024-05-08,Morocco
+CUST1199,Katie Barrett,24,2025-05-12,Cayman Islands
+CUST1200,Michelle Garcia,64,2025-02-17,Slovakia (Slovak Republic)
+CUST1201,Chad Hood,68,2024-06-18,Australia
+CUST1202,Michael Allen,32,2023-05-23,Ukraine
+CUST1203,Tom Moore,27,2023-11-19,Cayman Islands
+CUST1204,Logan Barr,51,2024-09-11,Denmark
+CUST1205,Benjamin Franklin,43,2025-07-29,Holy See (Vatican City State)
+CUST1206,Elizabeth Abbott,61,2024-09-10,Colombia
+CUST1207,Mr. Ralph Thompson,39,2024-07-16,Libyan Arab Jamahiriya
+CUST1208,Dawn Adkins,37,2023-05-14,Guernsey
+CUST1209,Anthony Watkins,40,2025-03-21,Ethiopia
+CUST1210,Jill Johnson,52,2024-04-23,Nauru
+CUST1211,Nicholas Clark,60,2023-01-18,American Samoa
+CUST1212,Michele Gray,64,2023-04-30,Oman
+CUST1213,Angel Marquez,22,2024-12-04,China
+CUST1214,Juan Sherman,66,2023-07-08,Suriname
+CUST1215,Rebecca Moore,56,2025-01-20,Netherlands Antilles
+CUST1216,Brittney Moore,46,2024-12-19,Gabon
+CUST1217,Lindsey Flores,44,2025-04-24,Antarctica (the territory South of 60 deg S)
+CUST1218,Christopher Watkins,66,2023-02-25,Anguilla
+CUST1219,Jasmine Higgins,28,2024-05-23,Paraguay
+CUST1220,Dr. Stacy Moran DVM,48,2024-12-29,Russian Federation
+CUST1221,Kevin Wilcox,44,2025-03-03,Ghana
+CUST1222,Sheila Wong,20,2024-12-18,Netherlands Antilles
+CUST1223,William Andrews,20,2023-05-17,Central African Republic
+CUST1224,William Jordan,64,2024-06-14,Eritrea
+CUST1225,Michael Mcgee,27,2023-03-12,Sri Lanka
+CUST1226,Michael Carpenter,51,2024-10-07,Faroe Islands
+CUST1227,Paula Newton,57,2023-09-17,Grenada
+CUST1228,Michelle Maxwell,34,2024-12-04,Benin
+CUST1229,Scott Williams,21,2023-12-03,Venezuela
+CUST1230,Brendan Harding,43,2025-10-15,Netherlands Antilles
+CUST1231,Heather Davis,44,2025-02-28,Japan
+CUST1232,Donald Kelly,47,2023-06-09,American Samoa
+CUST1233,Sarah Reid,43,2024-05-22,Cocos (Keeling) Islands
+CUST1234,Timothy Lee,61,2023-04-18,Indonesia
+CUST1235,Willie Steele,65,2023-10-10,Moldova
+CUST1236,Mark Skinner,43,2024-11-29,Guinea
+CUST1237,Andre Mccoy,50,2024-12-17,Armenia
+CUST1238,Devon Wang,56,2023-06-14,Belarus
+CUST1239,Stephanie Moran,38,2023-06-01,Myanmar
+CUST1240,Rebekah West,37,2024-08-03,Cameroon
+CUST1241,Heather Douglas,44,2025-02-26,Tonga
+CUST1242,Jennifer Patterson,45,2023-06-08,Dominican Republic
+CUST1243,Jacob Mays,40,2025-03-24,Germany
+CUST1244,Sandra Smith,57,2023-03-01,Benin
+CUST1245,William Kerr,31,2023-12-03,Palestinian Territory
+CUST1246,Scott Evans,23,2023-07-28,Palau
+CUST1247,Annette Glenn,30,2023-05-24,Bermuda
+CUST1248,Gina Floyd,47,2025-03-27,Heard Island and McDonald Islands
+CUST1249,Rhonda Fry,54,2023-02-07,South Africa
+CUST1250,Alexandra Stevens,56,2022-12-13,Djibouti
+CUST1251,Paul Rodriguez,30,2023-01-06,Argentina
+CUST1252,Charles Fernandez,66,2024-01-04,Burkina Faso
+CUST1253,Beth Walters,61,2023-10-29,Slovakia (Slovak Republic)
+CUST1254,Bianca Johnson MD,36,2024-09-16,Rwanda
+CUST1255,Heather Myers,23,2024-05-29,Kazakhstan
+CUST1256,Michael Miller,25,2023-08-02,Serbia
+CUST1257,Crystal Lopez,26,2023-06-15,Bolivia
+CUST1258,Jeremy Lang,42,2024-11-25,Guam
+CUST1259,Amy Hudson,26,2025-11-24,Northern Mariana Islands
+CUST1260,Jason Harding,34,2024-04-18,Antigua and Barbuda
+CUST1261,Edward Holder,20,2025-11-18,Austria
+CUST1262,Ryan Fletcher,56,2024-12-10,French Southern Territories
+CUST1263,Robert Osborn,30,2024-11-22,Heard Island and McDonald Islands
+CUST1264,Jennifer Elliott,48,2025-03-18,Thailand
+CUST1265,Todd Drake,35,2025-01-17,Kyrgyz Republic
+CUST1266,Tyler Keller,33,2023-04-19,Mozambique
+CUST1267,Sarah Smith,43,2024-09-01,Dominican Republic
+CUST1268,Jennifer Lewis,27,2024-01-19,Liechtenstein
+CUST1269,Mary Goodman,54,2024-03-23,Guernsey
+CUST1270,Adam Rogers,49,2023-11-23,Norfolk Island
+CUST1271,John Zimmerman,23,2023-11-25,South Africa
+CUST1272,Brian Ponce,32,2024-10-24,Grenada
+CUST1273,Jeremiah Richardson,58,2024-10-29,Holy See (Vatican City State)
+CUST1274,Brianna Martinez,52,2023-06-27,Oman
+CUST1275,Mark Everett,40,2025-07-02,Montserrat
+CUST1276,Yolanda Lee,56,2023-08-18,Mexico
+CUST1277,Teresa Terrell,25,2024-08-08,Nepal
+CUST1278,Shelby Cruz,48,2023-02-01,Eritrea
+CUST1279,Erica Lutz,56,2025-09-24,Mayotte
+CUST1280,Christopher Wright,26,2023-12-16,Azerbaijan
+CUST1281,Jeffery Miller,43,2024-12-19,Svalbard & Jan Mayen Islands
+CUST1282,Virginia Fitzpatrick,45,2024-07-05,Rwanda
+CUST1283,Robert Kennedy,58,2025-01-21,Iran
+CUST1284,Rebecca Malone MD,22,2023-07-13,Canada
+CUST1285,Christopher Vega,19,2024-04-05,Christmas Island
+CUST1286,Heather Jordan,59,2025-02-17,Burkina Faso
+CUST1287,Austin Jones,60,2025-08-21,Svalbard & Jan Mayen Islands
+CUST1288,Amanda Walker DDS,41,2024-03-01,Holy See (Vatican City State)
+CUST1289,Lisa Reid,25,2024-06-10,Montenegro
+CUST1290,Joshua Underwood,46,2025-02-09,Oman
+CUST1291,Dawn Smith,41,2024-11-06,India
+CUST1292,Sheila Ballard,41,2024-03-14,Botswana
+CUST1293,Howard Stokes,35,2025-06-24,Ghana
+CUST1294,Patrick Hernandez,40,2025-01-20,Nicaragua
+CUST1295,Angela Winters,21,2025-09-04,Sudan
+CUST1296,Wendy Brown,34,2024-03-29,Saint Lucia
+CUST1297,Jenna Floyd,52,2025-02-10,Suriname
+CUST1298,Rhonda Navarro,39,2025-05-02,Martinique
+CUST1299,Sherri Mccullough,60,2024-09-09,Cuba
