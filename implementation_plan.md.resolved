@@ -1,0 +1,32 @@
+# Expand Advanced EDA for Deeper Fintech Insights
+
+## Goal Description
+The user wants to enhance the [advanced_eda.py](file:///c:/Users/DELL/Documents/Fintech_Project/advanced_eda.py) script to provide more sophisticated insights while retaining the current analysis. I will implement **RFM (Recency, Frequency, Monetary) Analysis**, **Churn Risk Identification**, and **Transaction Type Trends**. These are standard, high-impact metrics in fintech for understanding customer value and retention.
+
+## Proposed Changes
+
+### Analysis Script
+
+#### [MODIFY] [advanced_eda.py](file:///c:/Users/DELL/Documents/Fintech_Project/advanced_eda.py)
+- **Retain**: Keep existing Country Volume, Avg Spend, and Monthly Trend visualizations.
+- **[NEW] RFM Segmentation**:
+    -   Calculate Recency (days since last transaction), Frequency (count), and Monetary (sum) for each customer.
+    -   Score customers (1-5) on each metric.
+    -   Create a "Customer Segment" column (e.g., "Loyal", "At Risk", "New").
+    -   **Viz**: Scatter plot of Recency vs. Monetary, colored by Segment.
+-   **[NEW] Churn Risk Analysis**:
+    -   Identify customers inactive for > 90 days.
+    -   Calculate overall Churn Rate.
+    -   **Viz**: Pie chart or Bar chart of Active vs. Churned customers.
+-   **[NEW] Transaction Type Trends**:
+    -   Analyze how transaction types (POS, Bill Payment, Transfer) evolve over time.
+    -   **Viz**: Stacked Area Chart of Transaction Count by Type over Month.
+
+## Verification Plan
+### Automated Verification
+- Run the detailed python script: `python advanced_eda.py`
+- Check for successful connection to Snowflake.
+- Verify that new PNG files are generated:
+    -   `eda_rfm_segments.png`
+    -   `eda_churn_risk.png`
+    -   `eda_type_trends.png`
