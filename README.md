@@ -29,6 +29,24 @@ The pipeline transforms raw, siloed CSV data into actionable intelligence:
         -   **Trend Analysis**: Tracks the evolution of transaction types (POS, Bill Payment, Transfer) over time.
     -   **BI Dashboards**: Power BI (or similar tools) can connect directly to this unified layer for real-time reporting.
 
+
+### Key Metrics & Analysis
+
+The dashboard includes executive KPIs such as:
+
+- Total transaction value (YTD)
+
+- Month-over-Month and Year-over-Year growth
+
+- Active customer counts
+
+- Loan portfolio value
+
+- Support ticket volume (MTD)
+
+Advanced measures were implemented to normalise performance per customer, assess loan exposure using 
+
+
 ## Setup Instructions
 
 ### Prerequisites
